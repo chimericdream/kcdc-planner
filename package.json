@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@emotion/native": "10.0.14",
-    "expo": "33.0.7",
+    "expo": "46.0.14",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
